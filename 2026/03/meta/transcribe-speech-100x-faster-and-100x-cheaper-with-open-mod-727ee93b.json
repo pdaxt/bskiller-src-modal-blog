@@ -3,7 +3,7 @@
   "title": "Transcribe speech 100x faster and 100x cheaper with open models",
   "source_url": "https://modal.com/blog/fast-cheap-batch-transcription",
   "source_name": "Modal Blog",
-  "published_at": null,
+  "published_at": "2026-03-21 03:17:58",
   "scraped_at": "2026-03-21 03:17:58",
   "bs_score": 7.7,
   "bs_rating": "High BS",
@@ -11,7 +11,7 @@
   "human_bs_rating": null,
   "editorial_comment": null,
   "category": "engineering",
-  "ai_summary": "Modal makes impressive claims about their own product with specific dollar amounts—but 'vendor blog promoting vendor product' is the ultimate conflict of interest. The underlying tech (open models + serverless) is real, but '100x faster/cheaper' without baseline comparison is marketing theater.",
+  "ai_summary": "Modal makes impressive claims about their own product with specific dollar amounts\u2014but 'vendor blog promoting vendor product' is the ultimate conflict of interest. The underlying tech (open models + serverless) is real, but '100x faster/cheaper' without baseline comparison is marketing theater.",
   "approved": true,
   "author_name": "Charles Frye"
 }
