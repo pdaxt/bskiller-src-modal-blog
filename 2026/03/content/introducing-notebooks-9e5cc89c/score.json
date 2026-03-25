@@ -1,58 +1,60 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.0,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Stay informed",
-  "factors": [
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-21 03:17:57",
+  "scoring_method": "ai",
+  "summary": "Modal announces its own product with 5,000 beta users and testimonials, but provides zero independent benchmarks; the 'less than 5 seconds' startup claim lacks comparison baselines against Colab or JupyterHub, making it vendor puffery masquerading as innovation.",
+  "career_angle": "The feature set is solid, but wait for third-party benchmarks or cost analysis before switching platforms\u2014corporate blog launches always cherry-pick metrics in their favor.",
+  "dimensions": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 7.0,
+      "weight": 0.15,
+      "rationale": "Modal is a legitimate cloud compute company with real infrastructure and proven track record delivering GPU services. Credible messenger for compute topics."
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
       "score": 5.0,
-      "weight": 0.2
+      "weight": 0.2,
+      "rationale": "Provides vanity metrics (5,000 accounts, 200,000 cells) and testimonials from known companies, but zero independent benchmarks or performance comparisons against competitors. No peer validation."
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 6.0,
+      "weight": 0.15,
+      "rationale": "Features are testable by signing up; users can verify functionality. Performance claims (startup time) could be measured independently, but Modal provides no baseline data to compare against."
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 2.0,
+      "weight": 0.15,
+      "rationale": "CRITICAL: This is Modal's blog announcing Modal's product. Pure self-promotion with full control over metrics, testimonials, and narrative. No third-party audit."
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "Collaborative notebooks aren't novel (Colab, JupyterHub exist). Unclear if industry experts validate this as breakthrough or incremental. No independent expert consensus cited."
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
       "score": 5.0,
-      "weight": 0.1
+      "weight": 0.1,
+      "rationale": "Features are concrete (real-time editing, GPU configs), but performance claims like 'less than 5 seconds' are vague\u2014less than what? Cold start vs warm? Compared to what baseline? Cherry-picked metrics without context."
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
-      "weight": 0.1
+      "score": 6.0,
+      "weight": 0.1,
+      "rationale": "Modal ships real products, but corporate launch announcements routinely oversell incremental features as revolutionary. Track record of delivery \u2260 accuracy of claims in marketing blog posts."
     }
-  ],
-  "scored_at": "2026-03-25T10:44:46.771002+00:00"
+  ]
 }
