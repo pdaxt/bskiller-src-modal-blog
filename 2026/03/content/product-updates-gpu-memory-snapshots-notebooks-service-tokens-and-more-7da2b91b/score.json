@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-21 03:17:57",
+  "scoring_method": "ai",
+  "summary": "Modal's product blog is technically accurate\u2014features exist and are testable\u2014but it's pure vendor marketing masquerading as news with zero independent verification. You're reading an advertisement, not journalism.",
+  "career_angle": "Useful as a feature roadmap if you already use Modal, but meaningless for evaluating Modal against competitors; requires independent benchmarking and third-party reviews to assess actual value.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "score": 7,
+      "weight": 0.15,
+      "rationale": "Modal speaks authoritatively on their own product features, but authority \u2260 honesty. Company blogs are inherently promotional\u2014they're announcing only what makes them look good."
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 5,
+      "weight": 0.2,
+      "rationale": "Product announcements describe features without independent validation. No third-party benchmarks, no comparative analysis against competitors, no customer outcome data\u2014just 'we shipped X.'"
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "score": 2,
+      "weight": 0.15,
+      "rationale": "Feature existence is immediately verifiable (sign up and test), making false claims about shipping features nearly impossible. This is actually the least BS part of vendor announcements."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 9,
+      "weight": 0.15,
+      "rationale": "Extreme conflict of interest. This is Modal announcing their own features in their own channel. Every incentive to hype, zero incentive to mention limitations, competitive gaps, or price-to-value trade-offs."
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "score": 5,
+      "weight": 0.15,
+      "rationale": "No expert consensus applies to a single vendor's product announcement. General serverless/GPU compute trends are established, but not specifically whether Modal's execution is competitive."
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "score": 3,
+      "weight": 0.1,
+      "rationale": "Feature names are specific ('GPU memory snapshots,' 'notebooks,' 'service tokens'), but product announcements rarely specify edge cases, performance trade-offs, or limitations. Vague on what matters for adoption."
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "score": 2,
+      "weight": 0.1,
+      "rationale": "Modal is funded, shipping, and doesn't have a public history of false claims. Vendor blogs rarely claim features they didn't ship. The BS isn't about lying\u2014it's about selective framing."
+    }
+  ]
+}
