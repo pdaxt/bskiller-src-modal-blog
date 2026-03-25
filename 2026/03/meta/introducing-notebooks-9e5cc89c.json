@@ -1,0 +1,17 @@
+{
+  "id": "9e5cc89c-2bae-4b91-8a34-0fa632ee62a6",
+  "title": "Introducing Notebooks",
+  "source_url": "https://modal.com/blog/notebooks",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:57",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Modal announces its own product with 5,000 beta users and testimonials, but provides zero independent benchmarks; the 'less than 5 seconds' startup claim lacks comparison baselines against Colab or JupyterHub, making it vendor puffery masquerading as innovation.",
+  "approved": true,
+  "author_name": "Eric Zhang"
+}
