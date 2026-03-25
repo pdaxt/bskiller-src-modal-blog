@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:10:45.943942+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:18:15Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Learn to self-host inference on Modal or similar platforms -- the optimization techniques (batching, quantization, custom kernels) transfer everywhere. But always ask 'faster than what baseline?' before trusting vendor benchmarks.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Modal is a legit YC-backed infra company with real customers, but this is their own marketing blog, not independent analysis."
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "The snippet is a tagline, not evidence. '3x faster' needs a defined baseline, hardware spec, and methodology to mean anything."
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Presumably reproducible on Modal's platform, but vendor-controlled environment makes independent verification harder -- you're testing their claim on their turf."
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Direct financial conflict -- Modal profits when you run FLUX on their platform. Every optimization claim is also a sales pitch."
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "FLUX.1-dev optimizations are real and widely discussed, but '3x' is aggressive. Community benchmarks rarely match vendor claims exactly."
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "'3x faster' sounds specific but is hollow without stating: faster than what, on which GPU, at what batch size, measuring latency or throughput."
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Modal generally delivers on technical claims and has a solid engineering reputation. Not a fly-by-night hype shop."
+    }
+  ]
 }
