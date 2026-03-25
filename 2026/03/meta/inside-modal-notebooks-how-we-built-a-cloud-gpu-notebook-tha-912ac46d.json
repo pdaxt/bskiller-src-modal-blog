@@ -1,0 +1,17 @@
+{
+  "id": "912ac46d-3b24-4760-8965-33a091e584da",
+  "title": "Inside Modal Notebooks: How we built a cloud GPU notebook that boots in seconds",
+  "source_url": "https://modal.com/blog/notebooks-internals",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:57",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Modal's engineering blog is technically honest but completely self-serving—think detailed product manual, not journalism. The internals and performance claims are probably accurate, but you're seeing only what helps their sales pitch.",
+  "approved": true,
+  "author_name": "Eric Zhang"
+}
