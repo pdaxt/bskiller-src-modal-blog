@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.0,
+  "bs_rating": "Mostly Credible",
+  "scored_at": "2026-03-21 03:17:57",
+  "scoring_method": "ai",
+  "summary": "Modal announcing their own product updates is inherently promotional but verifiable through actual product testing\u2014no independent vetting, heavy conflict of interest, but legitimate company with track record.",
+  "career_angle": "Product update announcements are useful for staying current on tools you might use, but always verify new features independently before betting critical infrastructure on them.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "score": 7.5,
+      "weight": 0.15,
+      "rationale": "Modal is the definitive authority on their own product features and capabilities. However, they're also the seller, creating obvious authority-via-self-interest."
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 5.0,
+      "weight": 0.2,
+      "rationale": "Product update blogs typically describe features without external benchmarks or data. Claims are demonstration-based rather than data-backed."
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "score": 7.5,
+      "weight": 0.15,
+      "rationale": "Any user can sign up and test Modal Notebooks or sandbox features directly. Claims are fully reproducible by trying the product."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 2.5,
+      "weight": 0.15,
+      "rationale": "Massive COI\u2014Modal profits directly from making their product sound essential and updated. They have zero incentive to highlight limitations or failures."
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "score": 6.0,
+      "weight": 0.15,
+      "rationale": "No expert consensus to verify against. This is internal product news, not a claim about the broader market or competing approaches."
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "score": 6.5,
+      "weight": 0.1,
+      "rationale": "Title names specific features (Modal Notebooks, sandbox idle timeouts), which is good. Feature descriptions are likely concrete, though marketing language may oversell benefits."
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "score": 8.0,
+      "weight": 0.1,
+      "rationale": "Modal is an established, venture-backed company with a multi-year track record of delivering serverless infrastructure. They generally ship what they announce."
+    }
+  ]
+}
