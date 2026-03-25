@@ -1,0 +1,17 @@
+{
+  "id": "bd2cea3e-8575-4850-a7cd-22657c06aca4",
+  "title": "Introducing: Modal 1.0",
+  "source_url": "https://modal.com/blog/introducing-client-1-0",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "A company announcing its own v1.0 is a press release, not news. Modal is a legit infra player, but 'milestone of maturity and stability' is pure marketing speak -- shipping 1.0 just means they stopped breaking things, which should have been the baseline.",
+  "approved": true,
+  "author_name": null
+}
