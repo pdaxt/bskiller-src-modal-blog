@@ -1,0 +1,17 @@
+{
+  "id": "48f69fda-cb02-49a4-8be8-562889c95efe",
+  "title": "How Modal powered 250,000 Lovable app creations in a weekend",
+  "source_url": "https://modal.com/blog/lovable-case-study",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 7.7,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "A vendor writing a case study about how awesome their own product is — shocking that the numbers look impressive. The specific stats (250K apps, 1M sandboxes, 20K concurrent) are plausible for Modal's infrastructure but completely unverifiable since it's self-reported marketing dressed up as engineering content.",
+  "approved": true,
+  "author_name": null
+}
