@@ -3,7 +3,7 @@
   "title": "How Zencastr transcribed hundreds of years worth of audio in just a few days",
   "source_url": "https://modal.com/blog/zencastr-case-study",
   "source_name": "Modal Blog",
-  "published_at": null,
+  "published_at": "2026-03-21 03:17:57",
   "scraped_at": "2026-03-21 03:17:57",
   "bs_score": 4.8,
   "bs_rating": "Mostly Credible",
@@ -11,7 +11,7 @@
   "human_bs_rating": null,
   "editorial_comment": null,
   "category": "engineering",
-  "ai_summary": "Modal's promotional blog post contains a specific technical claim (1,500 concurrent GPUs) but deliberately obscures scale with vague marketing metrics—'hundreds of years of audio' conflates total file duration with processing speed, not actual performance gains. Classic infrastructure vendor inflation.",
+  "ai_summary": "Modal's promotional blog post contains a specific technical claim (1,500 concurrent GPUs) but deliberately obscures scale with vague marketing metrics\u2014'hundreds of years of audio' conflates total file duration with processing speed, not actual performance gains. Classic infrastructure vendor inflation.",
   "approved": true,
   "author_name": null
 }
