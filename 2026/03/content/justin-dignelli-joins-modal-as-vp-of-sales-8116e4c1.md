@@ -1,0 +1,1 @@
+We're excited to welcome Justin Dignelli to Modal. As VP of Sales, he will be leading our GTM efforts.
