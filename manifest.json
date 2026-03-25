@@ -1,7 +1,13 @@
 {
+  "version": "1.0",
   "source_name": "Modal Blog",
   "repo": "bskiller-src-modal-blog",
   "story_count": 40,
-  "last_updated": "2026-03-25T07:31:16Z",
-  "months": ["2026-03"]
+  "last_updated": "2026-03-25T08:58:03Z",
+  "months": [
+    {
+      "month": "2026-03",
+      "story_count": 40
+    }
+  ]
 }
