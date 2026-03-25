@@ -1,0 +1,1 @@
+Twirl, a Stockholm-based data orchestration platform, is joining Modal.
