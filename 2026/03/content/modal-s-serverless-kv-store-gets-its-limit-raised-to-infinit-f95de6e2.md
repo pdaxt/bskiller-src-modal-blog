@@ -1,0 +1,1 @@
+We've supercharged our Dicts to support new caching and locking workflows—oh, and unlimited items.
