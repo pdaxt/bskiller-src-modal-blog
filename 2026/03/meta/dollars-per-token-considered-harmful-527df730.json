@@ -1,0 +1,17 @@
+{
+  "id": "527df730-85ed-4490-94f0-9311f81edbd3",
+  "title": "Dollars per token considered harmful",
+  "source_url": "https://modal.com/blog/dollars-per-token-considered-harmful",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 7.6,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Modal makes a legitimate engineering point -- requests matter more than tokens for self-hosted inference planning -- but buries the lede: they sell the compute you'd need to act on this advice. The 'considered harmful' framing is borrowed gravitas for what's essentially a sales blog post with hypothetical examples instead of benchmarks.",
+  "approved": true,
+  "author_name": "Charles Frye"
+}
