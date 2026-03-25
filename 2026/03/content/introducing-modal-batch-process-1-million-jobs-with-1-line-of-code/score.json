@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.1,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:10:51.824422+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:18:20Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Modal's serverless GPU/compute model is worth learning if you're building ML pipelines -- but evaluate it against Ray, Celery, or plain Kubernetes jobs before buying the marketing.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "First-party blog post -- they're announcing their own product, so inherently promotional"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "No benchmarks, no comparison to alternatives, no customer case studies with numbers in the claim itself"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Modal is a real product you can sign up for and test, but '1 million jobs' claim lacks defined job size or complexity"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Company announcing its own paid product -- maximum commercial incentive to oversimplify and overpromise"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Batch processing at scale is solved problem space; Modal's approach is one of many valid options, not breakthrough"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "'1 line of code' and '1 million jobs' are marketing anchors, not technical specifications -- no mention of latency, cost, or failure rates"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Modal has shipped real infrastructure used by ML teams; they're not vaporware, but they do lean into hype-driven launches"
+    }
+  ]
 }
