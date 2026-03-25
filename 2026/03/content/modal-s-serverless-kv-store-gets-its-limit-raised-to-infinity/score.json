@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.8,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-25T14:10:53.093077+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:18:21Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you're building stateful serverless apps, test Modal Dicts against Redis/Momento for your actual access patterns before buying the hype. Serverless KV is a real gap worth watching.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "First-party blog announcing own product -- this is a press release dressed as a tech post"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "No benchmarks, no latency numbers, no comparison to alternatives. 'Unlimited' with zero stress-test data"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "It's a shipped product feature -- you can sign up and test the claims yourself"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Company announcing its own product improvement. Maximum commercial incentive to oversell"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Serverless KV is a legitimate infrastructure need. No independent validation of the 'unlimited' claim"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "'Infinity' is the opposite of specific. Real engineering posts show limits, tradeoffs, and failure modes"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Modal has delivered solid infrastructure before and has credibility in the serverless space"
+    }
+  ]
 }
