@@ -1,0 +1,17 @@
+{
+  "id": "5c66a347-4fe1-4a34-8720-a14c64bbded6",
+  "title": "GPU Memory Snapshots: Supercharging Sub-second Startup",
+  "source_url": "https://modal.com/blog/gpu-mem-snapshots",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:57",
+  "bs_score": 4.1,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Modal's GPU snapshot technique is real, but they're selling it on their own blog—expect the best-case demo with cherry-picked metrics. The underlying tech is solid; the narrative is optimized for conversion.",
+  "approved": true,
+  "author_name": "Luis Capelo"
+}
