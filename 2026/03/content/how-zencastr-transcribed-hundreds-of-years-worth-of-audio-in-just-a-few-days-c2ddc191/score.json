@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "scored_at": "2026-03-21 03:17:57",
+  "scoring_method": "ai",
+  "summary": "Modal's promotional blog post contains a specific technical claim (1,500 concurrent GPUs) but deliberately obscures scale with vague marketing metrics\u2014'hundreds of years of audio' conflates total file duration with processing speed, not actual performance gains. Classic infrastructure vendor inflation.",
+  "career_angle": "Modal is a legitimate platform, but vendor case studies always conflate parallelization with raw speed. When evaluating cloud infrastructure, extract cost-per-unit and wall-clock latency before believing the headline.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "score": 7.0,
+      "weight": 0.15,
+      "rationale": "Modal is a real, Sequoia-backed infrastructure company. However, this is their own blog post promoting their own product\u2014authority is limited to infrastructure implementation, not independent validation of performance claims."
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 5.0,
+      "weight": 0.2,
+      "rationale": "Includes one specific metric (1,500 GPUs) but relies entirely on vague marketing speak ('hundreds of years', 'just a few days'). No cost benchmarks, latency data, competitor comparisons, or third-party verification. Reads like a sales enablement doc, not an engineering case study."
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "Zencastr's transcription pipeline is proprietary. No open benchmarks, datasets, or code released. You'd need Modal access, identical scale, and Zencastr's exact algorithms to verify independently\u2014practically impossible for an external reviewer."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 2.5,
+      "weight": 0.15,
+      "rationale": "Textbook conflict: Modal profits from every reader who believes this story and signs up. No third-party validation, no mention of competing platforms, no independent audit. Modal controls both the infrastructure and the narrative."
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "score": 6.5,
+      "weight": 0.15,
+      "rationale": "Large-scale GPU transcription is a known, credible pattern\u2014nothing contrarian here. But the specific speed claims ('just a few days') aren't benchmarked against AWS Batch, GCP, or on-prem alternatives, so hard to assess against expert consensus."
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "score": 6.5,
+      "weight": 0.1,
+      "rationale": "'1,500 concurrent GPUs' and 'millions of podcast episodes' are specific and falsifiable. But 'hundreds of years of audio' is deliberately vague (total duration? 847 years? 2,000?) and 'just a few days' lacks precision (2 days? 7 days?). Mixing specificity with fuzziness is a red flag."
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "score": 6.0,
+      "weight": 0.1,
+      "rationale": "Modal publishes legitimate technical content and isn't known for fraud. But case studies are inherently promotional. No track record of independent verification of their performance claims or whether past customers have validated the speed/cost advantages."
+    }
+  ]
+}
