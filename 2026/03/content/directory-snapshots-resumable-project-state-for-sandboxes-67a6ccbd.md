@@ -1,0 +1,1 @@
+Introducing Directory Snapshots, a programatic way to snapshot a specific directory within a running Sandbox and mount it into another Sandbox later, independently of the base image and the rest of the filesystem.
