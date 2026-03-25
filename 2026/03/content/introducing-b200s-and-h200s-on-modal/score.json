@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 3.9,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-25T14:10:48.927760+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:18:18Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you're training or fine-tuning models, benchmark Modal's B200 pricing against Lambda, CoreWeave, and RunPod before committing. The real story is cost-per-FLOP, not the press release.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Modal is a legit compute provider but this is their own marketing blog, not independent reporting"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Simple factual claim about their own infrastructure -- hard to fabricate GPU availability"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "Anyone can sign up and check if the GPUs are actually there"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Pure self-promotion -- company announcing its own product to drive signups and revenue"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Excerpt is just 'available starting today' with zero pricing, benchmarks, or capacity details"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "B200/H200 rollouts are happening across every major cloud provider -- nothing novel here"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Modal has delivered on previous GPU launches and has a solid reputation in ML infra"
+    }
+  ]
 }
