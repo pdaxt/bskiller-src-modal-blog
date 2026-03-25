@@ -1,58 +1,60 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.0,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Startup opportunity",
-  "factors": [
+  "bs_score": 4.1,
+  "bs_rating": "Mostly Credible",
+  "scored_at": "2026-03-21 03:17:57",
+  "scoring_method": "ai",
+  "summary": "Modal's GPU snapshot technique is real, but they're selling it on their own blog\u2014expect the best-case demo with cherry-picked metrics. The underlying tech is solid; the narrative is optimized for conversion.",
+  "career_angle": "Container startup optimization matters for serverless work, but Modal's 'sub-second' claim may not apply to your infrastructure or use case. Learn the *mechanism*, not the marketing.",
+  "dimensions": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 7.0,
+      "weight": 0.15,
+      "rationale": "Modal is a legit serverless platform with credible engineers. They understand infrastructure deeply and have shipped production features. However, they're authors and salespeople of the feature they're promoting."
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.2
+      "score": 6.5,
+      "weight": 0.2,
+      "rationale": "Blog likely includes benchmarks and demos (Modal typically shows working code), but benchmarks are controlled by Modal on Modal infrastructure. No third-party validation, peer review, or reproduction by competitors mentioned."
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 5.5,
+      "weight": 0.15,
+      "rationale": "GPU memory snapshots (CRIU-based) are technically reproducible, but Modal's specific implementation depends on their kernel/platform. A developer would struggle to replicate 'sub-second' claims without Modal's stack."
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 2.5,
+      "weight": 0.15,
+      "rationale": "**Critical red flag:** Self-published by the vendor on their own blog to showcase product capabilities. Direct commercial interest in making startup times look impressive. No disclosure of limitations or trade-offs."
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 6.5,
+      "weight": 0.15,
+      "rationale": "Container snapshotting (CRIU, AWS Lambda snapshots) is consensus-backed. Modal's *specific* claim (sub-second GPU snapshot startup) is less widely adopted/verified. Contrarian claim requires stronger proof."
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
-      "score": 5.0,
-      "weight": 0.1
+      "score": 7.5,
+      "weight": 0.1,
+      "rationale": "Claims are concrete: 'sub-second startup,' 'GPU memory snapshots,' measurable. Not vague. However, missing details: what workload? Cold vs. warm? Network overhead included? Memory footprint?"
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
-      "weight": 0.1
+      "score": 6.5,
+      "weight": 0.1,
+      "rationale": "Modal has shipped real features and is still operating (good sign). But one blog post doesn't establish long-term accuracy. No public record of Modal's performance claims being independently verified or debunked."
     }
-  ],
-  "scored_at": "2026-03-25T10:44:30.036912+00:00"
+  ]
 }
