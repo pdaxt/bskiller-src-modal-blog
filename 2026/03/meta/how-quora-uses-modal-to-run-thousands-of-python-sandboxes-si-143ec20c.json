@@ -1,0 +1,17 @@
+{
+  "id": "143ec20c-b3e2-44ff-9fc2-c5a2c82c84d0",
+  "title": "How Quora uses Modal to run thousands of Python sandboxes simultaneously",
+  "source_url": "https://modal.com/blog/quora-case-study",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Vendor case study dressed as a tech blog post. Modal publishing a success story about their own paying customer is marketing, not journalism -- every metric is cherry-picked to sell sandboxes. The underlying tech (Poe + sandboxing LLM code) is real and verifiable, which keeps this from sliding into High BS.",
+  "approved": true,
+  "author_name": null
+}
