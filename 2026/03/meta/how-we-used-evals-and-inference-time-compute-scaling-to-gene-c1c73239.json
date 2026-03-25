@@ -1,0 +1,17 @@
+{
+  "id": "c1c73239-2b9b-4644-8c9b-4ac59eaa42f4",
+  "title": "How we used evals and inference-time compute scaling to generate beautiful QR codes that actually work",
+  "source_url": "https://modal.com/blog/qart-codes-evals",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 4.5,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Modal wrote a technical blog post about generating aesthetic QR codes using evals and inference-time compute scaling -- real techniques, real results you can verify by scanning. But \"there's only one playbook\" is peak vendor-blog hyperbole, and a compute infrastructure company evangelizing more compute usage is the definition of talking your book.",
+  "approved": true,
+  "author_name": "Charles Frye"
+}
