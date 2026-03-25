@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.8,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-25T14:10:44.333404+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:18:14Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Sandboxed code execution for LLM outputs is a genuine infrastructure gap -- learn container/microVM isolation (Firecracker, gVisor) if you want to be useful in the AI infra hiring wave. Skip the Modal hype, learn the primitives.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Modal's own blog -- vendor marketing channel, not independent reporting or peer review"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Case study format means curated metrics only; no failure modes, cost comparisons, or independent benchmarks shared"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Poe is a live product, Modal sandboxes are a real API -- you can verify the technical claims yourself"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "Maximum conflict: vendor publishing glowing review of own product via customer testimonial they control"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Sandboxing LLM-generated code is an accepted best practice; no controversial claims here"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "'Thousands of sandboxes simultaneously' is vague -- no latency numbers, cost per sandbox, failure rates, or comparison to alternatives"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Quora is a real company with a real product (Poe has millions of users); Modal is VC-backed with legit infra credentials"
+    }
+  ]
 }
