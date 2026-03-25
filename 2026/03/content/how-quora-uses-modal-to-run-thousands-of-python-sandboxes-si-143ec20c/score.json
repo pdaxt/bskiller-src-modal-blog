@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "Sandboxed code execution for LLM outputs is a genuine infrastructure gap -- learn container/microVM isolation (Firecracker, gVisor) if you want to be useful in the AI infra hiring wave. Skip the Modal hype, learn the primitives.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "Modal's own blog -- vendor marketing channel, not independent reporting or peer review"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 5.0,
+      "rationale": "Case study format means curated metrics only; no failure modes, cost comparisons, or independent benchmarks shared"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "Poe is a live product, Modal sandboxes are a real API -- you can verify the technical claims yourself"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 2.0,
+      "rationale": "Maximum conflict: vendor publishing glowing review of own product via customer testimonial they control"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "Sandboxing LLM-generated code is an accepted best practice; no controversial claims here"
+    },
+    {
+      "dimension": "specificity",
+      "score": 5.0,
+      "rationale": "'Thousands of sandboxes simultaneously' is vague -- no latency numbers, cost per sandbox, failure rates, or comparison to alternatives"
+    },
+    {
+      "dimension": "track_record",
+      "score": 7.0,
+      "rationale": "Quora is a real company with a real product (Poe has millions of users); Modal is VC-backed with legit infra credentials"
+    }
+  ]
+}
