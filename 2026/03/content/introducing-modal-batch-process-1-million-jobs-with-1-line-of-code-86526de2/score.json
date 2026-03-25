@@ -1,0 +1,46 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-21 03:17:58",
+  "scoring_method": "ai",
+  "summary": "Modal is a legit infra company with real customers, but '1 million jobs with 1 line of code' is peak developer marketing hyperbole -- the line of code calls their platform, which does the actual heavy lifting you'd need to understand anyway.",
+  "career_angle": "Modal's serverless GPU/compute model is worth learning if you're building ML pipelines -- but evaluate it against Ray, Celery, or plain Kubernetes jobs before buying the marketing.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "score": 5.0,
+      "rationale": "First-party blog post -- they're announcing their own product, so inherently promotional"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 4.0,
+      "rationale": "No benchmarks, no comparison to alternatives, no customer case studies with numbers in the claim itself"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 6.0,
+      "rationale": "Modal is a real product you can sign up for and test, but '1 million jobs' claim lacks defined job size or complexity"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 3.0,
+      "rationale": "Company announcing its own paid product -- maximum commercial incentive to oversimplify and overpromise"
+    },
+    {
+      "dimension": "consensus",
+      "score": 6.0,
+      "rationale": "Batch processing at scale is solved problem space; Modal's approach is one of many valid options, not breakthrough"
+    },
+    {
+      "dimension": "specificity",
+      "score": 4.0,
+      "rationale": "'1 line of code' and '1 million jobs' are marketing anchors, not technical specifications -- no mention of latency, cost, or failure rates"
+    },
+    {
+      "dimension": "track_record",
+      "score": 7.0,
+      "rationale": "Modal has shipped real infrastructure used by ML teams; they're not vaporware, but they do lean into hype-driven launches"
+    }
+  ]
+}
