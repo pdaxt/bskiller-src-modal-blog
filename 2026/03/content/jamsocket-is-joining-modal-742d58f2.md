@@ -1,0 +1,1 @@
+Jamsocket, a backend platform for building sync engines, is joining Modal.
