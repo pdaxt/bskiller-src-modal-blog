@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.5,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "Inference-time compute scaling (best-of-N, reward-model reranking) is a genuinely useful pattern beyond QR codes -- learn it for any generative pipeline. Modal's eval-driven iteration loop is solid engineering practice worth stealing, even if the marketing wrapper oversells it.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Modal is a legit infra company with real engineers, but this is a company blog post, not peer-reviewed work or independent reporting."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 5.0,
+      "rationale": "The teaser content is pure marketing copy with zero technical detail shown. Title promises specifics but the excerpt delivers vibes. Actual post likely has more substance but we're scoring what's presented."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "QR codes are trivially verifiable -- scan it and it works or it doesn't. The techniques (evals, compute scaling) are well-documented in ML literature. Likely reproducible if you have Modal credits."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 3.0,
+      "rationale": "A company that sells GPU compute publishing a post about how using MORE compute solves problems is textbook conflict of interest. Every reader who tries this approach becomes a paying customer."
+    },
+    {
+      "dimension": "consensus",
+      "score": 6.0,
+      "rationale": "Inference-time compute scaling is real and well-studied (OpenAI, DeepMind papers). Eval-driven development is standard practice. The techniques aren't controversial -- the 'only one playbook' framing is."
+    },
+    {
+      "dimension": "specificity",
+      "score": 5.0,
+      "rationale": "Title is specific (evals, inference-time compute, QR codes) but the presented content is a one-line marketing hook. Classic bait-and-switch between headline specificity and body vagueness."
+    },
+    {
+      "dimension": "track_record",
+      "score": 7.0,
+      "rationale": "Modal has shipped real infrastructure used by real companies. Their previous technical blog posts have generally delivered on their promises. Not a fly-by-night operation."
+    }
+  ]
+}
