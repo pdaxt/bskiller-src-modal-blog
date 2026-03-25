@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.5,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:10:50.302239+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:18:19Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Modal is clearly investing in data orchestration talent, signaling they're building beyond GPU compute into workflow/pipeline tooling. If you're a data engineer who knows both infra and orchestration, Modal just told you what they're hiring for next.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Modal's own blog -- first-party source for the announcement itself, but zero independent verification or third-party reporting"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "No specifics on deal terms, team size, product fate, or customer migration. Just vibes and excitement"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Acquisition is a verifiable event -- either Twirl joins Modal or it doesn't. Can be confirmed via LinkedIn updates and Twirl's website status"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Modal announcing its own acquisition on its own blog -- maximum conflict of interest. Every incentive to frame this as transformative when it could be a tiny talent grab"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "No independent analyst coverage or industry reaction to validate the significance. Acqui-hires happen daily in tech"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Vague on every dimension that matters: no team numbers, no product roadmap impact, no technical details on what Twirl's tech adds to Modal's stack"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Modal has a solid reputation in the ML infra space and ships real product. They're not known for empty announcements, which buoys this slightly"
+    }
+  ]
 }
