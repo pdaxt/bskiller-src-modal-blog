@@ -2,8 +2,11 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.5,
   "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-21 03:17:58",
+  "scoring_method": "ai",
+  "summary": "Modal acqui-hires a Stockholm data orchestration startup -- the blog post is pure corporate fluff with zero details on what Twirl actually built, what happens to existing customers, or why this matters beyond 'great team joins great team.' Classic acquisition announcement dressed up as news.",
   "career_angle": "Modal is clearly investing in data orchestration talent, signaling they're building beyond GPU compute into workflow/pipeline tooling. If you're a data engineer who knows both infra and orchestration, Modal just told you what they're hiring for next.",
-  "factors": [
+  "dimensions": [
     {
       "dimension": "source_authority",
       "score": 5.0,
