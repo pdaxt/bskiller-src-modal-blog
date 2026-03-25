@@ -1,0 +1,1 @@
+AI code sandboxes are seeing an explosion of adoption as the volume of LLM-generated code in the world grows.
