@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.9,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "If you're training or fine-tuning models, benchmark Modal's B200 pricing against Lambda, CoreWeave, and RunPod before committing. The real story is cost-per-FLOP, not the press release.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Modal is a legit compute provider but this is their own marketing blog, not independent reporting"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 7.0,
+      "rationale": "Simple factual claim about their own infrastructure -- hard to fabricate GPU availability"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "Anyone can sign up and check if the GPUs are actually there"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 3.0,
+      "rationale": "Pure self-promotion -- company announcing its own product to drive signups and revenue"
+    },
+    {
+      "dimension": "specificity",
+      "score": 4.0,
+      "rationale": "Excerpt is just 'available starting today' with zero pricing, benchmarks, or capacity details"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "B200/H200 rollouts are happening across every major cloud provider -- nothing novel here"
+    },
+    {
+      "dimension": "track_record",
+      "score": 7.0,
+      "rationale": "Modal has delivered on previous GPU launches and has a solid reputation in ML infra"
+    }
+  ]
+}
