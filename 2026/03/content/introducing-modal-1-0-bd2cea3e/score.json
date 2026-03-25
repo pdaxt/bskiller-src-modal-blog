@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "Modal is genuinely useful for ML engineers who need serverless GPU compute without Kubernetes headaches. If you're building AI products, learn their SDK -- but wait a week post-1.0 for the inevitable patch releases before migrating production workloads.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Company blog announcing own product -- inherently self-serving source, though Modal is a real VC-backed infra company with paying customers"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 4.0,
+      "rationale": "Zero benchmarks, no migration stats, no customer testimonials cited in the summary. 'Maturity and stability' with no metrics is vibes-based versioning"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "It's an open client library -- anyone can pip install and verify the 1.0 claim. The software exists and works"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 3.0,
+      "rationale": "Maximum conflict -- company announcing its own product milestone to drive adoption. This is marketing, full stop"
+    },
+    {
+      "dimension": "consensus",
+      "score": 6.0,
+      "rationale": "Modal has genuine developer mindshare in the ML infra space, but 1.0 version bumps are often arbitrary marketing decisions rather than technical milestones"
+    },
+    {
+      "dimension": "specificity",
+      "score": 4.0,
+      "rationale": "Extremely vague -- 'maturity and stability' without defining what changed, what breaking changes were resolved, or what stability guarantees 1.0 actually provides"
+    },
+    {
+      "dimension": "track_record",
+      "score": 7.0,
+      "rationale": "Modal has shipped consistently and has real enterprise customers. Their pre-1.0 product was already production-grade for many users"
+    }
+  ]
+}
