@@ -1,0 +1,17 @@
+{
+  "id": "f95de6e2-fbd7-4f13-89a9-a5b5d0e5b282",
+  "title": "Modal's Serverless KV Store Gets Its Limit Raised to Infinity",
+  "source_url": "https://modal.com/blog/cache-dict-launch",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Modal shipping real infrastructure improvements but calling a limit 'infinity' is marketing theater -- every system has limits, they just moved the bottleneck somewhere you can't see yet.",
+  "approved": true,
+  "author_name": "Daniel Shaar"
+}
