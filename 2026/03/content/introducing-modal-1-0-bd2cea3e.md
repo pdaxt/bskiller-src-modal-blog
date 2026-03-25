@@ -1,0 +1,1 @@
+We've released v1.0 of the Modal client, marking a new milestone of maturity and stability for our platform.
