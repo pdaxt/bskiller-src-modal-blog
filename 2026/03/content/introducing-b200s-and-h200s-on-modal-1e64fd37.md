@@ -1,0 +1,1 @@
+We’re excited to be making Nvidia B200 and H200 GPUs available on Modal starting today!
