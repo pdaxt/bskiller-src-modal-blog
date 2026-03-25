@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "If you're building stateful serverless apps, test Modal Dicts against Redis/Momento for your actual access patterns before buying the hype. Serverless KV is a real gap worth watching.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "First-party blog announcing own product -- this is a press release dressed as a tech post"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 5.0,
+      "rationale": "No benchmarks, no latency numbers, no comparison to alternatives. 'Unlimited' with zero stress-test data"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "It's a shipped product feature -- you can sign up and test the claims yourself"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 3.0,
+      "rationale": "Company announcing its own product improvement. Maximum commercial incentive to oversell"
+    },
+    {
+      "dimension": "consensus",
+      "score": 6.0,
+      "rationale": "Serverless KV is a legitimate infrastructure need. No independent validation of the 'unlimited' claim"
+    },
+    {
+      "dimension": "specificity",
+      "score": 5.0,
+      "rationale": "'Infinity' is the opposite of specific. Real engineering posts show limits, tradeoffs, and failure modes"
+    },
+    {
+      "dimension": "track_record",
+      "score": 7.0,
+      "rationale": "Modal has delivered solid infrastructure before and has credibility in the serverless space"
+    }
+  ]
+}
