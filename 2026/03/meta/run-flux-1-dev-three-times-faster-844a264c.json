@@ -1,0 +1,17 @@
+{
+  "id": "844a264c-527f-41f1-a717-5c8f7ebf9749",
+  "title": "Run FLUX.1-dev three times faster",
+  "source_url": "https://modal.com/blog/flux-3x-faster",
+  "source_name": "Modal Blog",
+  "published_at": null,
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 5.0,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": "Modal selling their own infra by claiming 3x speedup on a popular image model -- classic vendor benchmark where they control the baseline. 'Pick three' is a marketing line, not an engineering claim.",
+  "approved": true,
+  "author_name": "Will Shainin"
+}
