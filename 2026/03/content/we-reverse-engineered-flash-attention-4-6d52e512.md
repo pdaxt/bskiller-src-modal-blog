@@ -1,0 +1,1 @@
+Asynchrony, fast approximate exponents, and 10x more efficient softmax.
