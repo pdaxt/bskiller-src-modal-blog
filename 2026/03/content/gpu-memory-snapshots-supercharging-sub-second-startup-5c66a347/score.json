@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.1,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-21 03:17:57",
-  "scoring_method": "ai",
-  "summary": "Modal's GPU snapshot technique is real, but they're selling it on their own blog\u2014expect the best-case demo with cherry-picked metrics. The underlying tech is solid; the narrative is optimized for conversion.",
   "career_angle": "Container startup optimization matters for serverless work, but Modal's 'sub-second' claim may not apply to your infrastructure or use case. Learn the *mechanism*, not the marketing.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
