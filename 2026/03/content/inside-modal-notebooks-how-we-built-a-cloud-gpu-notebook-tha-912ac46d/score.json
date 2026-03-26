@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.0,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Startup opportunity",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "Worth reading if you're evaluating Modal for GPU workloads, but treat benchmark claims as 'internal measurements' not industry proof. If you're building competing infra, this telegraphs what Modal thinks is valuable.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 6.0,
+      "weight": 0.15,
+      "rationale": "Modal is a legitimate infrastructure company with real products. Their engineering team knows what they're talking about. But they're explaining their own black box, so authority is narrow."
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.2
+      "score": 6.0,
+      "weight": 0.2,
+      "rationale": "Technical blogs like this typically include architecture diagrams, code snippets, and internal performance metrics. But all evidence is their own measurements\u2014no third-party benchmarks or academic rigor."
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "The internals are proprietary. Users can test if the notebook 'boots fast' for their use case, but can't verify the engineering claims about how they achieved it."
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 2.0,
+      "weight": 0.15,
+      "rationale": "This is Modal's own blog promoting Modal's own product. Maximum conflict of interest. They have direct financial incentive to make it sound revolutionary."
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
       "score": 5.0,
-      "weight": 0.15
+      "weight": 0.15,
+      "rationale": "Fast notebook startup aligns with what engineers want, but no consensus on whether Modal's approach is superior to alternatives. One company's blog post can't establish that."
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
-      "score": 5.0,
-      "weight": 0.1
+      "score": 6.0,
+      "weight": 0.1,
+      "rationale": "The claim 'boots in seconds' is quantifiable. Technical internals posts usually get detailed about architecture. But performance claims often omit limitations or overhead scenarios."
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
-      "weight": 0.1
+      "score": 6.0,
+      "weight": 0.1,
+      "rationale": "Modal has shipped real products and credibly executes on infrastructure. They're not a scam. But their marketing claims often outpace actual developer experience."
     }
-  ],
-  "scored_at": "2026-03-25T10:44:44.195471+00:00"
+  ]
 }
