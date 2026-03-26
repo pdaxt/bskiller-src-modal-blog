@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-21 03:17:58",
-  "scoring_method": "ai",
-  "summary": "Modal selling their own infra by claiming 3x speedup on a popular image model -- classic vendor benchmark where they control the baseline. 'Pick three' is a marketing line, not an engineering claim.",
   "career_angle": "Learn to self-host inference on Modal or similar platforms -- the optimization techniques (batching, quantization, custom kernels) transfer everywhere. But always ask 'faster than what baseline?' before trusting vendor benchmarks.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 6.0,
