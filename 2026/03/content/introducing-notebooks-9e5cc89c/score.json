@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.1,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-21 03:17:57",
-  "scoring_method": "ai",
-  "summary": "Modal announces its own product with 5,000 beta users and testimonials, but provides zero independent benchmarks; the 'less than 5 seconds' startup claim lacks comparison baselines against Colab or JupyterHub, making it vendor puffery masquerading as innovation.",
   "career_angle": "The feature set is solid, but wait for third-party benchmarks or cost analysis before switching platforms\u2014corporate blog launches always cherry-pick metrics in their favor.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
