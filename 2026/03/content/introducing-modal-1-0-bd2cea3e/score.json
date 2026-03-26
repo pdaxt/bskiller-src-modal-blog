@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.8,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-21 03:17:58",
-  "scoring_method": "ai",
-  "summary": "A company announcing its own v1.0 is a press release, not news. Modal is a legit infra player, but 'milestone of maturity and stability' is pure marketing speak -- shipping 1.0 just means they stopped breaking things, which should have been the baseline.",
   "career_angle": "Modal is genuinely useful for ML engineers who need serverless GPU compute without Kubernetes headaches. If you're building AI products, learn their SDK -- but wait a week post-1.0 for the inevitable patch releases before migrating production workloads.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 6.0,
