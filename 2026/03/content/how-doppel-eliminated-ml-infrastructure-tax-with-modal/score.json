@@ -1,0 +1,58 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 5.9,
+  "career_angle": "Infrastructure skills for AI workloads (GPU scheduling, agent scaling, MCP deployment) are the highest-value DevOps specialization right now.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'How Doppel eliminated ML infrastructure tax with Modal' -- Modal Blog is unclassified or low-reliability source (tier_5, reliability: 20%). Cites: team at Doppel parallelize experimentation and s",
+      "score": 2.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "mentions benchmarks or datasets",
+      "score": 4.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'How Doppel eliminated ML infrastructure tax with Modal' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'How Doppel eliminated ML infrastructure tax with Modal' -- no overt promotional language from Modal Blog, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'How Doppel eliminated ML infrastructure tax with Modal' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'How Doppel eliminated ML infrastructure tax with Modal' -- no specific or falsifiable claims identified",
+      "score": 5.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Modal Blog -- insufficient history to assess",
+      "score": 3.0,
+      "weight": 0.1
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
